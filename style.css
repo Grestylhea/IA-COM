@@ -164,7 +164,7 @@ body {
 }
 .benner{
     height: 250px;
-    background-image: url(banner.jpg);
+    background-image: url(python.png);
     background-size: cover;
     background-position: 0 310px;
     border-top: 2px solid rgb(0, 191, 255);
